@@ -46,7 +46,7 @@ main_layout.xml: 注意Button的颜色，是默认的粉色
     ```
 
 显示效果如下
-
+![alt](https://github.com/flyer88/Pichu/blob/master/MainActivity.png)
 
 然后对本项目的`Widget`包下的`Button`进行如下修改
 
@@ -93,6 +93,7 @@ main_layout.xml: 注意Button的颜色，是默认的粉色
 
 最终在`SecondActivity`中的显示如下图
 
+![alt](https://github.com/flyer88/Pichu/blob/master/SecondActivity.png)
 
 
 注意，从头至尾，不需要对`xml`进行任何修改，唯一需要做的是，实现一个自己想要的`Button`，但效果确实替换了系统的`Button`
