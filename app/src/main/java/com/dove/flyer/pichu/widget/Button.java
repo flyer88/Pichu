@@ -30,8 +30,4 @@ public class Button extends android.widget.Button{
     }
 
 
-    @Override
-    public boolean onTouchEvent(MotionEvent event) {
-        return super.onTouchEvent(event);
-    }
 }
