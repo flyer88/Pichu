@@ -116,5 +116,6 @@ main_layout.xml: 注意Button的颜色，是默认的粉色
         }
     }
     
+## 最后
 
-写这个的原因主要是看了Inflater的源码，以及以前接触到的一个[换肤方案](https://github.com/fengjundev/Android-Skin-Loader)(非常感谢)，发现可以替换系统控件，所以就写了这个库。
+写这个的原因主要是看了Inflater的源码，以及以前接触到的一个[换肤方案](https://github.com/fengjundev/Android-Skin-Loader)(非常感谢)，发现可以替换系统控件，所以就写了这个。
